@@ -3,5 +3,4 @@ This code optimize the location of WSN nodes after coverage hole is generated du
 
 ### More details can be checked at https://free-thesis.com/product/wsn-nodes-location-optimization/
 
-![Initial Locations with Covergae Hole:free-thesis](https://github.com/earthat/WSN-Nodes-Location-Optimiation/blob/main/Results%20Images/figure2.bmp)
-![PSO OPtimized Locations without Covergae Hole_free-thesis](https://github.com/earthat/WSN-Nodes-Location-Optimiation/blob/main/Results%20Images/figure4.bmp)
+https://www.mdpi.com/1424-8220/25/12/3620
