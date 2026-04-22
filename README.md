@@ -1,5 +1,7 @@
-# WSN_depolyment-VASF-PSO
-Sensor Node Deployment Optimization for Continuous Coverage in WSNs
+# WSN-Nodes-Location-Optimiation
+This code optimize the location of WSN nodes after coverage hole is generated due to depleted battery. If any node in the actie communication dies then rest nodes are positioned again by PSO optimization cosnidering the coverage area maximiation as the objective function. 
 
+### More details can be checked at https://free-thesis.com/product/wsn-nodes-location-optimization/
 
-Optimizing sensor node coverage remains a central challenge in wireless sensor networks (WSNs), where premature convergence and suboptimal solutions in traditional optimization methods often lead to coverage gaps and uneven node distribution. To address these issues, this paper presents a novel velocity-scaled adaptive search factor particle swarm optimization (VASF-PSO) algorithm that integrates dynamic mechanisms to enhance population diversity, guide the search process more effectively, and reduce uncovered areas. The proposed algorithm is evaluated through extensive simulations across multiple WSN deployment scenarios with varying node densities, sensing ranges, and monitoring area sizes. Comparative results demonstrate that the approach consistently outperforms several widely used metaheuristic algorithms, achieving faster convergence, better global exploration, and significantly improved coverage performance. On average, the proposed method yields up to 14.71% higher coverage rates than baseline techniques. These findings underscore the algorithm’s robustness and suitability for efficient and scalable WSN deployments.
+![Initial Locations with Covergae Hole:free-thesis](https://github.com/earthat/WSN-Nodes-Location-Optimiation/blob/main/Results%20Images/figure2.bmp)
+![PSO OPtimized Locations without Covergae Hole_free-thesis](https://github.com/earthat/WSN-Nodes-Location-Optimiation/blob/main/Results%20Images/figure4.bmp)
